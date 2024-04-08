@@ -1,5 +1,5 @@
 #import pelota #en minuscula por importacion
-from pelota import Pelota
+from objetos_y_clases.pelota import Pelota
 #INSTANCIAR O CREAR OBJETO
 #pelota_de_andy = pelota.Pelota()
 pelota_de_andy = Pelota()#de esta forma es la mas comun

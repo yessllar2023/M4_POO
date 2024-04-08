@@ -26,9 +26,9 @@ ATRIBUTOS:
 tipos de atributos:
 -de clase: estatico()
 de instancia: no estaticos(objeto)
-
-
-
-
-
 """
+
+#############################################################
+
+METODOS (PARTE 1)
+

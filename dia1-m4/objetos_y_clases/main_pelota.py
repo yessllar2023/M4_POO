@@ -14,3 +14,14 @@ print(pelota_de_andy.material)
     
 pelota_tenis = Pelota()
 print(pelota_tenis)
+
+#Metodos estaticos
+#no se necesita crear un objeto para invocar al metodo
+print()
+print(Pelota.crear_rebote())#[5,0,4,0,3,0,2,0,1,]
+
+
+print()
+pelota_futbol = Pelota()
+print(pelota_futbol)
+
